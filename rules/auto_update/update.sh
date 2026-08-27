@@ -14,7 +14,7 @@ done
 get_md5() { md5sum "$1" | awk '{print $1}'; }
 get_lines() { wc -l < "$1" | tr -d ' '; }
 
-DATE_NOW=$(date "+%Y-%m-%d %H:%M:%S")
+DATE_NOW=$(TZ='Asia/Shanghai' date "+%Y-%m-%d %H:%M:%S")
 
 cat > rules.json.js <<EOF
 {
