@@ -2,7 +2,7 @@ name: Auto Update Rules
 
 on:
   schedule:
-    - cron: '45 19 * * *'
+    - cron: '00 17 * * *'
   workflow_dispatch: 
 
 jobs:
