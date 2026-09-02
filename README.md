@@ -1,5 +1,5 @@
 # fancyss-rules
-每日自动更新上游（V2Ray）规则，供 **fancyss 插件** 使用。
+每日自动更新上游（V2Ray）规则，供fancyss 插件使用。
 
 ## 使用方法
 ssh登录路由器执行: 
