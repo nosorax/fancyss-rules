@@ -1,31 +1,31 @@
 { 
-  "version": "2026-11-17 08:34:30", 
+  "version": "2026-11-18 07:41:39", 
   "gfwlist": { 
     "name": "gfwlist.txt", 
     "md5": "69e04ff03aa70149084866b1a78a39a7", 
-    "date": "2026-11-17 08:34:30", 
+    "date": "2026-11-18 07:41:39", 
     "count": "4453" 
   }, 
   "chnroute": { 
     "name": "chnroute.txt", 
-    "md5": "cc4191497808027d004435c11948a732", 
-    "date": "2026-11-17 08:34:30", 
-    "count": "8798", 
+    "md5": "0939250a02f2258f812dd1d2bd7a94fa", 
+    "date": "2026-11-18 07:41:39", 
+    "count": "5691", 
     "count_ip": "344320354" 
   }, 
   "chnlist": { 
     "name": "chnlist.txt", 
     "md5": "5ef535f4571679badd5f5c885d9e9422", 
-    "date": "2026-11-17 08:34:30", 
+    "date": "2026-11-18 07:41:39", 
     "count": "110251" 
   }, 
-  "chnroute6": { "name": "chnroute6.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-17 08:34:30", "count": "1" }, 
-  "adslist": { "name": "adslist.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-17 08:34:30", "count": "1" }, 
-  "rotlist": { "name": "rotlist.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-17 08:34:30", "count": "1" }, 
-  "white_list": { "name": "white_list.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-17 08:34:30", "count": "1" }, 
-  "black_list": { "name": "black_list.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-17 08:34:30", "count": "1" }, 
-  "block_list": { "name": "block_list.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-17 08:34:30", "count": "1" }, 
-  "apple_china": { "name": "apple_china.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-17 08:34:30", "count": "1" }, 
-  "google_china": { "name": "google_china.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-17 08:34:30", "count": "1" }, 
-  "cdn_test": { "name": "cdn_test.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-17 08:34:30", "count": "1" } 
+  "chnroute6": { "name": "chnroute6.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-18 07:41:39", "count": "1" }, 
+  "adslist": { "name": "adslist.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-18 07:41:39", "count": "1" }, 
+  "rotlist": { "name": "rotlist.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-18 07:41:39", "count": "1" }, 
+  "white_list": { "name": "white_list.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-18 07:41:39", "count": "1" }, 
+  "black_list": { "name": "black_list.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-18 07:41:39", "count": "1" }, 
+  "block_list": { "name": "block_list.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-18 07:41:39", "count": "1" }, 
+  "apple_china": { "name": "apple_china.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-18 07:41:39", "count": "1" }, 
+  "google_china": { "name": "google_china.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-18 07:41:39", "count": "1" }, 
+  "cdn_test": { "name": "cdn_test.txt", "md5": "68b329da9893e34099c7d8ad5cb9c940", "date": "2026-11-18 07:41:39", "count": "1" } 
 } 
